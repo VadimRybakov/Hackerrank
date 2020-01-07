@@ -1,0 +1,2 @@
+public class ExceptionPractice {
+}
