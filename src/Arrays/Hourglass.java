@@ -20,7 +20,7 @@ public class Hourglass {
     }
     public static void main(String[] args) {
         int[][] arr = new int[6][6];
-        int min = -2;
+        int min = -6;
         int max = 0;
         for (int i = 0; i < 6; i++) {
             for (int j = 0; j < 6; j++) {
